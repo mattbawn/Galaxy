@@ -9,5 +9,5 @@ To create an account click **Login or Register** (in yellow).
 
 We'll look at a sequence from this work:
 
-![Alt Text](https://github.com/mattbawn/Galaxy/blob/main/pics/pgen.TREE.tif)
+![Alt Text](https://github.com/mattbawn/Galaxy/blob/main/pics/PLoS_Gen_Tree.png)
 
