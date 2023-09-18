@@ -4,6 +4,8 @@
 
 [metagenomics](https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/general-tutorial/tutorial.html)
 
+[more metagenomics](https://training.galaxyproject.org/training-material/topics/metagenomics/)
+
 [Pathogen Detection](https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.html)
 
 [M tuberculosis](https://training.galaxyproject.org/training-material//topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html)
